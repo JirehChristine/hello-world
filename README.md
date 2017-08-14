@@ -1,2 +1,4 @@
 # hello-world
-A place for ideas
+Hi there!
+
+I'm Jireh. I like animation and quirky design. 
